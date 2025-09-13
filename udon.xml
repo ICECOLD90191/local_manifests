@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="ICECOLD90191" fetch="https://github.com/ICECOLD90191" revision="14" />
+  <remote name="ICECOLD90191" fetch="https://github.com/ICECOLD90191" revision="15" />
   <remote name="mp" fetch="https://gitlab.com/maitreyapatni25" revision="14" />
 
 
