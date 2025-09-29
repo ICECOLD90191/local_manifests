@@ -12,6 +12,7 @@
   <project path="kernel/oneplus/sm8450-modules" name="android_kernel_oneplus_sm8475-modules" remote="ICECOLD90191" revision="15"/>
   <project path="kernel/oneplus/sm8450-devicetrees" name="android_kernel_oneplus_sm8475-devicetrees" remote="ICECOLD90191" revision="15"/>
   <project path="vendor/oneplus/udon" name="vendor_oneplus_udon" remote="ICECOLD90191" revision="15" />
+  <project path="vendor/oneplus/firmware-udon" name="vendor_oneplus_udon" remote="ICECOLD90191" revision="15" />
   <project path="vendor/oneplus/sm8450-common" name="vendor_oneplus_sm8450-common-los23" remote="ICECOLD90191" revision="15" />
   
 </manifest>
