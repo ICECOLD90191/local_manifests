@@ -10,7 +10,7 @@
   <project path="hardware/pixelworks/interfaces" name="hardware_pixelworks_interfaces" remote="ICECOLD90191" revision="lineage-23.0"/>
   
   <!-- udon kernel trees and modules -->
-  <project path="kernel/oneplus/sm8450" name="android_kernel_oneplus_sm8450" remote="ICECOLD90191" revision="lineage-23.0"/>
+  <project path="kernel/oneplus/sm8450" name="android_kernel_oneplus_sm8450" remote="ICECOLD90191" revision="lineage-23.0-new"/>
   <project path="kernel/oneplus/sm8450-modules" name="android_kernel_oneplus_sm8450-modules" remote="ICECOLD90191" revision="lineage-23.0"/>
   <project path="kernel/oneplus/sm8450-devicetrees" name="android_kernel_oneplus_sm8450-devicetrees" remote="ICECOLD90191" revision="lineage-23.0"/>
 
