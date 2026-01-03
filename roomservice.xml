@@ -9,9 +9,9 @@
   <project path="hardware/oplus" name="android_hardware_oplus" remote="ICECOLD90191" revision="lineage-23.0"/>
   
   <!-- udon kernel trees and modules -->
-  <project path="kernel/oneplus/sm8475" name="android_kernel_oneplus_sm8475" remote="ICECOLD90191" revision="lineage-23.0"/>
-  <project path="kernel/oneplus/sm8475-modules" name="android_kernel_oneplus_sm8475-modules" remote="ICECOLD90191" revision="lineage-23.0"/>
-  <project path="kernel/oneplus/sm8475-devicetrees" name="android_kernel_oneplus_sm8475-devicetrees" remote="ICECOLD90191" revision="lineage-23.0"/>
+  <project path="kernel/oneplus/sm8450" name="android_kernel_oneplus_sm8475" remote="ICECOLD90191" revision="lineage-23.0"/>
+  <project path="kernel/oneplus/sm8450-modules" name="android_kernel_oneplus_sm8475-modules" remote="ICECOLD90191" revision="lineage-23.0"/>
+  <project path="kernel/oneplus/sm8450-devicetrees" name="android_kernel_oneplus_sm8475-devicetrees" remote="ICECOLD90191" revision="lineage-23.0"/>
 
   <!-- udon vendor -->
   <project path="vendor/oneplus/udon" name="android_vendor_oneplus_udon" remote="bot" />
