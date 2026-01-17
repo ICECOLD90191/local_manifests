@@ -10,7 +10,7 @@
 
   <!-- udon vendor -->
   <project path="vendor/oneplus/udon" name="android_vendor_oneplus_udon" remote="bot" />
-  
+  <project path="kernel/oneplus/sm8450" name="android_kernel_oneplus_udon" remote="bot" />
   <!-- SM8450 Common device and vendor trees -->
   <project path="vendor/oneplus/sm8450-common" name="proprietary_vendor_oneplus_sm8450-common" remote="bot" />
   <project path="device/oneplus/sm8450-common" name="android_device_oneplus_sm8450-common" remote="ICECOLD90191" revision="A16"/>
